@@ -8,8 +8,6 @@ PackMate is a modern travel planning web application that helps users organize t
 
 👉 [View Live Demo]( https://sakshimalkar.github.io/MakeMyTrip/)
 
-> ⚠️ If not deployed yet, write: _Coming Soon_
-
 ---
 
 ## 🚀 Features
