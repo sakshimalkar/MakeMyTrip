@@ -2,6 +2,6 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/MakeMyTrip/',
-  plugins: [react()]
+  plugins: [react()],
+  base: '/MakeMyTrip/'   // 👈 THIS IS THE FIX
 })
